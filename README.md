@@ -4,7 +4,7 @@ About me
 
 - name: autumn/evelyn
 - age: 21
-- she/they
+- she/they/it
 
 ─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
 - I’m interested in physics, maths & philosophy
