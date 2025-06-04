@@ -1,4 +1,4 @@
-About me
+about me
 
 ─── ･ ｡ﾟ☆: *.☽ .* :☆. ─── 
 
@@ -7,8 +7,8 @@ About me
 - she/they/it
 
 ─── ･ ｡ﾟ☆: *.☽ .* :☆. ───
-- I’m interested in physics, maths & philosophy
-- I’m currently learning python, rust, html/css
+- i’m interested in physics, maths & philosophy
+- i’m currently learning python, rust, html/css
 
 ─── ･ ｡ﾟ☆: *.☽ .* :☆. ───
 <!---
